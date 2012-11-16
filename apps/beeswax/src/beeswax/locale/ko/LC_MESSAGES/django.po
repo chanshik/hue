@@ -797,7 +797,7 @@ msgstr "목록 끝"
 msgid ""
 "Showing %(start)s to %(end)s of %(count)s items, page %(page)s of "
 "%(pages)s"
-msgstr "%(page)s / %(pages) 페이지, %(count)s 항목 중 %(start)s ~ %(end)s을(를) 표시합니다."
+msgstr "%(page)s / %(pages)s 페이지, %(count)s 항목 중 %(start)s ~ %(end)s을(를) 표시합니다."
 
 #: src/beeswax/templates/choose_delimiter.mako:23
 #: src/beeswax/templates/choose_file.mako:22
